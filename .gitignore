@@ -1,0 +1,6 @@
+__pycache__
+.venv
+venv
+logs
+config.json
+video_messages.json

@@ -1,0 +1,2 @@
+opi-gpio>=0.5.2
+python-telegram-bot>=21.7
