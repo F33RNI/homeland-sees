@@ -302,6 +302,7 @@ def main() -> None:
     # If we're here, exit requested
     recorder_.stop()
     gpio_handler_.cleanup()
+    gpio_handler_.stop()
     bot_handler_.stop()
     logging.warning("Homeland-sees exited")
 
