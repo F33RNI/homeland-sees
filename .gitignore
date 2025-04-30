@@ -6,3 +6,4 @@ config.json
 video_messages.json
 *.xcf
 .interrupts
+videos
