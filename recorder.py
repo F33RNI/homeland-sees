@@ -1,5 +1,5 @@
 """
-Copyright (C) 2023-2024 Fern Lane, Homeland-sees automated surveillance camera project
+Copyright (C) 2023-2025 Fern Lane, Homeland-sees automated surveillance camera project
 
 Licensed under the GNU Affero General Public License, Version 3.0 (the "License");
 you may not use this file except in compliance with the License.
